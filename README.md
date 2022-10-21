@@ -6,6 +6,8 @@ This Git repository contains all the code files I used throughout my personal jo
 | ------------------------------- | ------------- |
 |   1                 | Core Concepts - Optional topics as CKA  |
 | 2                   |  Application Design and Build 20% |
-|  3                   |     Application Observability and Maintenance 15%                    |
-|4                      |     Application Environment, Configuration and Security 25%                 |
-|  5                     |     Services and Networking 20%                     |
+|  3                    |     Application Deployment 20%                    |
+|  4                   |     Application Observability and Maintenance 15%                    |
+|5                      |     Application Environment, Configuration and Security 25%                 |
+| 6                     |     Services and Networking 20%                     |
+
